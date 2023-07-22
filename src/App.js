@@ -1,4 +1,4 @@
-import logo from './andi.jpg';
+import logo from './andi.jpg'; 
 import './App.css';
 
 function App() {
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Visit me!
+          Visit me ...!
         </a>
       </header>
     </div>
